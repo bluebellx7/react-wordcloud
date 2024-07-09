@@ -88,7 +88,8 @@ export function render({ callbacks, options, random, selection, words }) {
         .attr('font-weight', fontWeight)
         .attr('text-anchor', 'middle')
         .attr('style', (d) => {
-          return d.data.style;
+          console.log('d', d)
+          return d.style || '';
         })
         .attr('transform', 'translate(0, 0) rotate(0)');
 
