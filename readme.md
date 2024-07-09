@@ -1,9 +1,9 @@
-# Words add style options
+# Words add textStyle options
 ```
  {
     text: 'Chanel Foundation',
     value: 24,
-    style: 'font-weight:bolder;',
+    textStyle: 'font-weight:bolder;',
   }
 ```
 
