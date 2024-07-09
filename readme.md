@@ -11,12 +11,12 @@
 
 In package.json
 ```
-"react-wordcloud": "git+https://github.com/bluebellx7/react-wordcloud.git#v1.0.0"
+"react-wordcloud": "git+https://github.com/bluebellx7/react-wordcloud.git#v2.0.0"
 ```
 
 Yarn
 ```
-yarn add react-wordcloud@git+https://github.com/bluebellx7/react-wordcloud.git#v1.0.0
+yarn add react-wordcloud@git+https://github.com/bluebellx7/react-wordcloud.git#v2.0.0
 ```
 
 
