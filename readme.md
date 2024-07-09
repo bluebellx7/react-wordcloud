@@ -1,3 +1,14 @@
+# Words add style options
+```
+ {
+    text: 'Chanel Foundation',
+    value: 24,
+    style: 'font-weight:bolder;',
+  }
+```
+
+Install: ```"react-wordcloud": "git+https://github.com/bluebellx7/react-wordcloud.git#v1.0.0"```
+
 # ☁️ react-wordcloud
 
 Simple React + D3 wordcloud component with powerful features. Uses the [`d3-cloud`](https://github.com/jasondavies/d3-cloud) layout.
