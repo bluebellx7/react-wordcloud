@@ -19,6 +19,9 @@ Yarn
 yarn add react-wordcloud@git+https://github.com/bluebellx7/react-wordcloud.git#v1.0.0
 ```
 
+
+----
+
 # ☁️ react-wordcloud
 
 Simple React + D3 wordcloud component with powerful features. Uses the [`d3-cloud`](https://github.com/jasondavies/d3-cloud) layout.
