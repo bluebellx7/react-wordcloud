@@ -1,6 +1,6 @@
 {
   "name": "react-wordcloud-words-style",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Simple React + D3 wordcloud component with powerful features.",
   "license": "MIT",
   "homepage": "https://github.com/bluebellx7/react-wordcloud",
@@ -67,9 +67,7 @@
     "react": "^16.13.0"
   },
   "husky": {
-    "hooks": {
-      "pre-push": "npm run prepare && npm run lint"
-    }
+    "hooks": {}
   },
   "prettier": {
     "bracketSpacing": true,
